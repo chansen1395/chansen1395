@@ -107,7 +107,7 @@
 
 <hr>
 
-<p><img align="right"
+<p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=chansen1395&show_icons=true&theme=noctis_minimus&locale=en&layout=compact"
     alt="chansen1395" /></p>
 
