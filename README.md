@@ -1,10 +1,15 @@
-<h1 align="center">Connor Hansen</h1>
-<h3 align="center">Full-Time Epicodus Student</h3>
-<h3 align="center">React, C#/.NET, JavaScript</h3>
-<h4 align="center">Future Software Developer</h4>
-<h4 align="center">📧 E-mail **Coming soon**</h4>
+<p>&nbsp;<img align="right"
+    src="https://github-readme-stats.vercel.app/api?username=chansen1395&show_icons=true&hide=stars&border_radius=25&border_color=8a2387&bg_color=0,8a2387,e94057,f27121&title_color=fff&text_color=fff&locale=en"
+    alt="chansen1395" />
 
-<h4 align="center"><a 
+<h1 align="left">Connor Hansen</h1>
+<h3 align="left">Full-Time Epicodus Student</h3>
+<h3 align="left">React, C#/.NET, JavaScript</h3>
+<h4 align="left">Future Software Developer</h4>
+<h4 align="left">📧 E-mail **Coming soon**</h4>
+</p>
+
+<h4 align="left"><a 
     href="https://linkedin.com/in/connor--hansen" target="blank">
     <img align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -108,12 +113,24 @@
 <hr>
 
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=chansen1395&show_icons=true&theme=noctis_minimus&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=chansen1395&layout=compact&show_icons=true&theme=solarized-dark&locale=en"
+    alt="chansen1395" /></p>
+
+<!-- <p>&nbsp;<img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=chansen1395&show_icons=true&hide=stars&theme=solarized-dark&locale=en"
+    alt="chansen1395" /></p>
+-->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chansen1395&theme=solarized-dark"
+    alt="chansen1395" /></p>
+    
+    
+<!-- Gradient option - not available on streak stats
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=chansen1395&layout=compact&show_icons=true&border_radius=25&border_color=8a2387&bg_color=0,8a2387,e94057,f27121&title_color=fff&text_color=fff&locale=en"
     alt="chansen1395" /></p>
 
 <p>&nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=chansen1395&show_icons=true&hide=stars&theme=noctis_minimus&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=chansen1395&show_icons=true&hide=stars&border_radius=25&border_color=8a2387&bg_color=0,8a2387,e94057,f27121&title_color=fff&text_color=fff&locale=en"
     alt="chansen1395" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chansen1395&theme=noctis_minimus"
-    alt="chansen1395" /></p>
+-->
