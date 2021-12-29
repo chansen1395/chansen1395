@@ -16,6 +16,8 @@
     alt="connor--hansen" height="30" width="40" /></a>
 </h4>
 
+![](https://komarev.com/ghpvc/?username=chansen1395)
+
 <hr>
 
 <h3 align="left">Primary Languages and Tools:</h3>
