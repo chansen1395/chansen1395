@@ -3,9 +3,9 @@
     alt="chansen1395" />
 
 <h1 align="left">Connor Hansen</h1>
-<h3 align="left">Full-Time Epicodus Student</h3>
+<h3 align="left">Current Backend Intern for Grant Us Funding</h3>
 <h3 align="left">React, C#/.NET, JavaScript</h3>
-<h4 align="left">Future Software Developer</h4>
+<!-- <h4 align="left">Future Software Developer</h4> -->
 <h4 align="left">📧 E-mail **Coming soon**</h4>
 </p>
 
